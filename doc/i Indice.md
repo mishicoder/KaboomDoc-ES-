@@ -1,0 +1,252 @@
+# Indice
+
+* Introducción
+    * Estructura de la plantilla
+    * Configuración de KboomJS
+
+* Objectos
+    * add()
+    * make()
+    * readd()
+    * get()
+    * destroy()
+    * destroyAll()
+
+* Componentes
+    * pos()
+    * scale()
+    * rotate()
+    * color()
+    * opacity()
+    * sprite()
+    * text()
+    * polygon()
+    * rect()
+    * circle()
+    * uvquad()
+    * area()
+    * anchor()
+    * z()
+    * outline()
+    * body()
+    * doubleJump()
+    * move()
+    * offscreen()
+    * follow()
+    * shader()
+    * timer()
+    * fixed()
+    * stay()
+    * health()
+    * lifespan()
+    * state()
+    * fadeIn()
+    * mask()
+    * drawon()
+    * title()
+    * agent()
+
+* Eventos
+    * on()
+    * onUpdate()
+    * onDraw()
+    * onAdd()
+    * onDestroy()
+    * onLoad()
+    * onLoading()
+    * onError()
+    * onResize()
+    * onCleanup()
+    * OnGamepadConnect()
+    * OnGamepadDisconnect()
+    * OnCollide()
+    * onCollideUpdate()
+    * onCollideEnd()
+    * onClick()
+    * onHover()
+    * onHoverUpdate()
+    * onHoverEnd()
+    * onKeyDown()
+    * onKeyPress()
+    * onKeyPressRepeat()
+    * onKeyRelease()
+    * onCharInput()
+    * onMouseDown()
+    * onMousePress()
+    * onMouseRelease()
+    * onTouchStart()
+    * onTouchMove()
+    * onTouchEnd()
+    * onScroll()
+    * onHide()
+    * onShow()
+    * onGamepadButtonDown()
+    * onGamepadButtonPress()
+    * onGamepadButtonRelease()
+    * onGamepadStick()
+    * onSceneLeave()
+
+* Recursos
+    * loadRoot()
+    * loadSprite()
+    * loadSpriteAtlas()
+    * loadAseprite()
+    * loadPedit()
+    * loadBean()
+    * loadJSON()
+    * loadSound()
+    * loadMusic()
+    * loadFont()
+    * loadBitmapFont()
+    * loadShader()
+    * load()
+    * loadProgress()
+    * getSprite()
+    * getSound()
+    * getFont()
+    * getBitmapFont()
+    * getShader()
+    * Asset
+    * SpriteData
+    * SoundData
+
+* Información
+    * width()
+    * height()
+    * center()
+    * dt()
+    * time()
+    * isFocused()
+    * isTouchscreen()
+    * mousePos()
+    * mouseDeltaPos()
+    * isKeyDown()
+    * isKeyPressed()
+    * isKeyPressedRepeat()
+    * isKeyReleased()
+    * isMouseDown()
+    * isMousePressed()
+    * isMouseReleased()
+    * isMouseMoved()
+    * isGamepadButtonPressed()
+    * isGamepadButtonDown()
+    * isGamepadButtonReleased()
+    * getGamepadStick()
+    * charInputted()
+    * shake()
+    * camPos()
+    * camScale()
+    * camRot()
+    * toScreen()
+    * toWorld()
+    * setGravity()
+    * getGravity()
+    * setBackground()
+    * getBackground()
+    * getGamepads()
+    * setCursor()
+    * getCursor()
+    * setCursorLocked()
+    * isCursorLocked()
+    * setFullscreen()
+    * isFullscreen()
+
+* Tiempo
+    * wait()
+    * loop()
+
+* Audio
+    * play()
+    * burp()
+    * volume()
+    * audioCtx
+
+* Matemática
+    * rand()
+    * randi()
+    * randSeed()
+    * vec2()
+    * rgb()
+    * hsl2rgb()
+    * quad()
+    * choose()
+    * chance()
+    * lerp()
+    * tween()
+    * easings
+    * map()
+    * mapc()
+    * wave()
+    * deg2rad()
+    * rad2deg()
+    * clamp()
+    * testLinePoint()
+    * testLineLine()
+    * testLineCircle()
+    * testRectRect()
+    * testRectLine()
+    * testRectPoint()
+    * testCirclePolygon()
+    * Line
+    * Rect
+    * Circle
+    * Polygon
+    * Vec2
+    * Color
+    * Mat4
+    * Quad
+    * RNG
+
+* Escenas
+    * scene()
+    * go()
+
+* Niveles
+    * addLevel()
+
+* Datos
+    * getData()
+    * setData()
+
+* Dibujado
+    * drawSprite()
+    * drawText()
+    * drawRect()
+    * drawLine()
+    * drawLines()
+    * drawTriangle()
+    * drawCircle()
+    * drawEllipse()
+    * drawPolygon()
+    * drawUVQuad()
+    * drawFormattedText()
+    * drawMasked()
+    * drawSubtracted()
+    * pushTransform()
+    * popTransform()
+    * pushScale()
+    * pushRotate()
+    * pushMatrix()
+    * usePostEffect()
+    * formatText()
+    * makeCanvas()
+
+* Depurar
+    * debug
+
+* Varios
+    * plug()
+    * screenshot()
+    * download()
+    * downloadText()
+    * downloadJSON()
+    * downloadBlob()
+    * record()
+    * addKaboom()
+    * ASCII_CHARS
+    * constantes
+    * canvas
+    * quit
+    * Event
+    * EventHandler
+    * EventController
