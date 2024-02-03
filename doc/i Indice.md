@@ -1,7 +1,7 @@
 # Indice
 
 * Introducción
-    * Estructura de la plantilla
+    * [Estructura de la plantilla](https://github.com/mishicoder/KaboomDoc-ES-/blob/main/doc/1.%20Estructura%20de%20plantilla.md)
     * Configuración de KboomJS
 
 * Objectos
