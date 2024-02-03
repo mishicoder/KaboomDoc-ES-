@@ -1,6 +1,6 @@
 # Indice
 
-### Introducción
+* Introducción
     * Estructura de la plantilla
     * Configuración de KboomJS
 
