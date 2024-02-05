@@ -1,4 +1,3 @@
-
 # Documentación de KaboomJS en español
 
 Descripcion detallada de la libreria KaboomJS para la creacion de videojuegos en la web, haciendo uso de una plantilla.
