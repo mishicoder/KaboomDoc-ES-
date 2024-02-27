@@ -47,4 +47,4 @@
 `eq(p: Vec2) => boolean`  
 
 ---
-[Índice](https://github.com/mishicoder/KaboomDoc-ES-/blob/main/doc/1.%20Introduccion/0.%20Indice.md) | [Load Sprite](https://github.com/mishicoder/KaboomDoc-ES-/blob/main/doc/2.%20Recursos/4.%20LoadSprite.md)
+[Índice](https://github.com/mishicoder/KaboomDoc-ES-/blob/main/doc/1.%20Introduccion/0.%20Indice.md) | [Load Sprite](https://github.com/mishicoder/KaboomDoc-ES-/blob/main/doc/2.%20Recursos/4.%20LoadSprite.md#loadspriteopt-options)
