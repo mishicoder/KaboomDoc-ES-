@@ -1,6 +1,6 @@
 # Tipos de Datos  
 
-###**Quad**  
+### **Quad**  
 `x: number`  
 `y: number`
 `w: number`  
@@ -10,7 +10,7 @@
 `clone() => Quad`  
 `eq(q: Quad) => boolean`  
 
-###**Vec2**  
+### **Vec2**  
 `x: number`  
 `y: number`  
 `LEFT: Vec2`  
